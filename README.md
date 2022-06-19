@@ -3,36 +3,36 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## The Problem Statement is mentioned below.
 
 ```template
-## School Management
+1. School Management
     ## Teacher -
-● Teachers can create homework and assign it to a particular class .
-● Teachers can filter students' homework is done or not done.
-● Can send a warning through notification to a particular student through an
-app.
-● Teacher can update performance of student
-● Inform holidays, notice, information, PTM, Timetable.
-● Syllabus Track
-● Everyday’s attendance information of students and for particular subjects
-also.
-● Late coming time for students.
-● Fees Submit
-● Approve leave application
-● Fee detail
-● Book Assign by Library
-● Upload Notes
+        ● Teachers can create homework and assign it to a particular class .
+        ● Teachers can filter students' homework is done or not done.
+        ● Can send a warning through notification to a particular student through an
+        app.
+        ● Teacher can update performance of student
+        ● Inform holidays, notice, information, PTM, Timetable.
+        ● Syllabus Track
+        ● Everyday’s attendance information of students and for particular subjects
+        also.
+        ● Late coming time for students.
+        ● Fees Submit
+        ● Approve leave application
+        ● Fee detail
+        ● Book Assign by Library
+        ● Upload Notes
     ## Student -
-● Parents/Students can select when their homework is done.
-● Parents can check the leaves of their child.
-● Can get the status of how many times he is being late for school.
-● Performance in particular subject
-● Can see warning of students
-● Can get information about notice,PTM, Holidays, Timetable.
-● Submit leave application form
-● Fee details
-● Track Syllabus
-● Book taken from library
-● Students Documents
-● Notes for Students
+        ● Parents/Students can select when their homework is done.
+        ● Parents can check the leaves of their child.
+        ● Can get the status of how many times he is being late for school.
+        ● Performance in particular subject
+        ● Can see warning of students
+        ● Can get information about notice,PTM, Holidays, Timetable.
+        ● Submit leave application form
+        ● Fee details
+        ● Track Syllabus
+        ● Book taken from library
+        ● Students Documents
+        ● Notes for Students information
 ```
 
 ## Getting Started
